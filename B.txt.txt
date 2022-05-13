@@ -1,2 +1,4 @@
-This is B file
-This is a change for the child branch.
+
+This is a change to test diff git command hahahha.
+Few lines have been deleted.
+
