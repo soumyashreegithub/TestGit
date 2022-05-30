@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 This is a change to test diff git command hahahha.
 Few lines have been deleted.
@@ -11,3 +12,6 @@ Changes done in remote repo.
 =======
 Changes done in remote repo second time
 >>>>>>> 1985f43df330637c5dfacfa0800ad69b5f6c8515
+=======
+This is final change in remote repo and 
+>>>>>>> 1fff4f4b350435ed6542158d14076b8b7830923c
