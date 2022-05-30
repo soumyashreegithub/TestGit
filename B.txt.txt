@@ -2,4 +2,8 @@
 This is a change to test diff git command hahahha.
 Few lines have been deleted.
 Now child is to be pushed.
+<<<<<<< HEAD
 updation done from local repo.
+=======
+Changes done in remote repo.
+>>>>>>> 5fa3c6438c67ffc5423f31a6dc40969d8d724561
