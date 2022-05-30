@@ -6,4 +6,8 @@ Now child is to be pushed.
 updation done from local repo.
 =======
 Changes done in remote repo.
+<<<<<<< HEAD
 >>>>>>> 5fa3c6438c67ffc5423f31a6dc40969d8d724561
+=======
+Changes done in remote repo second time
+>>>>>>> 1985f43df330637c5dfacfa0800ad69b5f6c8515
